@@ -32,4 +32,3 @@ statement balance) in the period
 ● PRC_FULL_PAYMENT- Percentage of months with full payment of the due
 statement balance
 ● TENURE Number of months as a customer
-
