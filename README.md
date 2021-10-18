@@ -9,3 +9,9 @@ active credit card holders during the last 6 months. The file is at a customer l
 18 behavioural variables.
 
 
+
+**Primary Goal**: To develop a customer segmentation to define a marketing strategy for 9000 active credit cardholders during the last 6 months.
+
+**Output Goal**: With the help of a machine learning technique called K-means clustering found out that 56% of potential customers can be targeted and revenue can get a 70% increase with this strategy.
+
+
